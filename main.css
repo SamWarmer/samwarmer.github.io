@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+   /* CSS */
+   background-color: rgb(184, 180, 168);
+   font-family: 'Bebas Neue';
+   font-size: 22px;
+   letter-spacing: 1.5px;
+   color: whitesmoke; 
+}
+
+h1 {
+font-family: 'Bebas Neue';
+text-align: center;
+}
+
+
+p{
+    width: 60%;
+    margin: 0 auto;
+}
+
+img{
+    /* display: block; */
+    width: 500px;
+    margin-left: 5%;
+}
+
+/* styling of links */
+a{
+    color: #c3d6dd;
+    text-decoration: none;
+}
+
+/* a:link, a:visited{ */
+
+
+a:hover, 
+a:active { color: rgb(165, 223, 241);
+
+}
+
+.party {
+    margin-bottom: 42px;
+}
