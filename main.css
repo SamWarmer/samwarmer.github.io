@@ -139,7 +139,7 @@ a:active {
         padding: 1.5rem;
         height: unset;
     }
-    img {
+    .image {
         position: relative;
     }
     p {
